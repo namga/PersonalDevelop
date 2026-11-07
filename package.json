@@ -1,6 +1,6 @@
 {
   "name": "personal-growth-handbook",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": true,
   "description": "Vietnamese offline-first personal development handbook mobile app",
   "scripts": {

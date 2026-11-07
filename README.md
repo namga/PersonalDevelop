@@ -17,7 +17,7 @@ Mở thư mục `www` qua một static web server (không mở trực tiếp fil
 ## Build APK trên GitHub
 1. Tạo repository mới và push toàn bộ source.
 2. Mở tab Actions, chọn `Build Android APK` và chạy workflow (hoặc push lên main/master).
-3. Tải artifact `Personal-Development-Handbook-1.0.0-debug` ở trang run.
+3. Tải artifact `Personal-Development-Handbook-v1.0.6-Android-debug` ở trang run.
 
 Workflow cài dependencies bằng `npm install`, tạo Capacitor Android project, đồng bộ nội dung web và build APK debug. Source hiện không kèm `package-lock.json`, vì vậy workflow đã bỏ npm cache trong `actions/setup-node`; đây là cách phù hợp để tránh lỗi “Dependencies lock file is not found”. Muốn phát hành Play Store cần cấu hình signing key riêng.
 
@@ -45,3 +45,11 @@ Workflow copies Android mipmap launcher resources and adaptive icon resources in
 - Có ngưỡng nhận diện cử chỉ để hạn chế kích hoạt nhầm khi cuộn dọc hoặc nhập biểu mẫu.
 - Nút quay lại trong trang chuyên đề và phím Escape/Backspace (khi không nhập liệu) cũng dùng chung lịch sử điều hướng.
 - Tên artifact APK: `Personal-Development-Handbook-1.0.5-debug`.
+
+
+## v1.0.6 – Đồng bộ phiên bản, tên APK và worksheet
+- Đồng bộ phiên bản hiển thị trong ứng dụng và package.json thành 1.0.6.
+- Đổi tên file APK sau build thành Personal-Development-Handbook-v1.0.6-Android-debug.apk; artifact GitHub Actions dùng cùng tên.
+- Bỏ số thứ tự dạng 1.1, 2.1… khỏi tiêu đề worksheet.
+- Loại tiêu đề Worksheet thực hành đánh số trong phần nội dung chương vì ứng dụng đã có tiêu đề khu vực worksheet riêng, tránh hiển thị lặp.
+- Điều chỉnh khoảng cách phần giới thiệu ứng dụng và nhãn phiên bản.
