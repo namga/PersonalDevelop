@@ -40,8 +40,8 @@ Workflow đã bỏ `android-actions/setup-android@v3` do action có thể yêu c
 Workflow copies Android mipmap launcher resources and adaptive icon resources into the generated Capacitor Android project before Gradle build.
 
 
-## v1.0.4 – Vuốt để quay lại
+## v1.0.5 – Vuốt để quay lại
 - Thêm thao tác vuốt từ mép trái màn hình sang phải để quay về màn hình trước.
 - Có ngưỡng nhận diện cử chỉ để hạn chế kích hoạt nhầm khi cuộn dọc hoặc nhập biểu mẫu.
 - Nút quay lại trong trang chuyên đề và phím Escape/Backspace (khi không nhập liệu) cũng dùng chung lịch sử điều hướng.
-- Tên artifact APK: `Personal-Development-Handbook-1.0.4-debug`.
+- Tên artifact APK: `Personal-Development-Handbook-1.0.5-debug`.
