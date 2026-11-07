@@ -1,1 +1,18 @@
-{"name":"personal-growth-handbook","version":"1.0.0","private":true,"description":"Vietnamese offline-first personal development handbook mobile app","scripts":{"build":"echo Static PWA ready","android:sync":"npx cap sync android","android:open":"npx cap open android"},"dependencies":{"@capacitor/android":"^6.2.1","@capacitor/core":"^6.2.1"},"devDependencies":{"@capacitor/cli":"^6.2.1"}}
+{
+  "name": "personal-growth-handbook",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Vietnamese offline-first personal development handbook mobile app",
+  "scripts": {
+    "build": "echo Static PWA ready",
+    "android:sync": "npx cap sync android",
+    "android:open": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  }
+}

@@ -26,3 +26,6 @@ Dữ liệu hồ sơ/worksheet được lưu trong localStorage của ứng dụ
 
 ## Nguồn nội dung
 `data/handbook.json` và `www/handbook.json` được trích xuất từ `Personal_Development_Handbook_VN_2026_REVISED.docx`.
+
+## Cập nhật build v1.0.2
+Workflow đã bỏ `android-actions/setup-android@v3` do action có thể yêu cầu gói SDK cũ `tools` không còn được phát hành. Thay vào đó workflow dùng Android SDK có sẵn trên GitHub Ubuntu runner và cài tường minh `platform-tools`, `platforms;android-34`, `build-tools;34.0.0`. Artifact mới có tên `Personal-Development-Handbook-1.0.2-debug`.
