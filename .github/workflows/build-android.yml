@@ -11,16 +11,19 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
       - uses: actions/setup-java@v4
         with:
           distribution: temurin
           java-version: '17'
       - uses: android-actions/setup-android@v3
-      - run: npm install
-      - run: npx cap add android
-      - run: npx cap sync android
-      - run: cd android && chmod +x gradlew && ./gradlew assembleDebug
+      - name: Install Node dependencies
+        run: npm install --no-audit --no-fund
+      - name: Create Android project
+        run: npx cap add android
+      - name: Sync web app to Android
+        run: npx cap sync android
+      - name: Build debug APK
+        run: cd android && chmod +x gradlew && ./gradlew assembleDebug
       - uses: actions/upload-artifact@v4
         with:
           name: Personal-Development-Handbook-1.0.0-debug

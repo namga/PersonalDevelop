@@ -19,7 +19,7 @@ Mở thư mục `www` qua một static web server (không mở trực tiếp fil
 2. Mở tab Actions, chọn `Build Android APK` và chạy workflow (hoặc push lên main/master).
 3. Tải artifact `Personal-Development-Handbook-1.0.0-debug` ở trang run.
 
-Workflow tạo Capacitor Android project, đồng bộ nội dung web và build APK debug. Muốn phát hành Play Store cần cấu hình signing key riêng.
+Workflow cài dependencies bằng `npm install`, tạo Capacitor Android project, đồng bộ nội dung web và build APK debug. Source hiện không kèm `package-lock.json`, vì vậy workflow đã bỏ npm cache trong `actions/setup-node`; đây là cách phù hợp để tránh lỗi “Dependencies lock file is not found”. Muốn phát hành Play Store cần cấu hình signing key riêng.
 
 ## Dữ liệu và riêng tư
 Dữ liệu hồ sơ/worksheet được lưu trong localStorage của ứng dụng. Không có tài khoản cloud, đồng bộ thiết bị hay truyền dữ liệu ra máy chủ trong bản 1.0.0. Hãy dùng Xuất dữ liệu để sao lưu trước khi xóa ứng dụng hoặc dữ liệu trình duyệt.
