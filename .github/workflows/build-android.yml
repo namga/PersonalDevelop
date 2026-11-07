@@ -56,6 +56,12 @@ jobs:
       - name: Create Android project
         run: npx cap add android
 
+      - name: Install Android launcher icons
+        run: |
+          cp -R assets/android/res/mipmap-* android/app/src/main/res/
+          cp -R assets/android/res/drawable* android/app/src/main/res/
+          cp -R assets/android/res/values android/app/src/main/res/
+
       - name: Sync web app to Android
         run: npx cap sync android
 
@@ -68,6 +74,6 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: Personal-Development-Handbook-1.0.2-debug
+          name: Personal-Development-Handbook-1.0.4-debug
           path: android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error

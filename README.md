@@ -29,3 +29,19 @@ Dữ liệu hồ sơ/worksheet được lưu trong localStorage của ứng dụ
 
 ## Cập nhật build v1.0.2
 Workflow đã bỏ `android-actions/setup-android@v3` do action có thể yêu cầu gói SDK cũ `tools` không còn được phát hành. Thay vào đó workflow dùng Android SDK có sẵn trên GitHub Ubuntu runner và cài tường minh `platform-tools`, `platforms;android-34`, `build-tools;34.0.0`. Artifact mới có tên `Personal-Development-Handbook-1.0.2-debug`.
+
+
+## v1.0.3 – Android và màu giao diện
+- Hỗ trợ launcher icon Android legacy + adaptive icon cho thiết bị Android hiện đại.
+- Vào Cá nhân → Cài đặt giao diện để chọn 5 màu: xanh ngọc, xanh dương, tím dịu, cam ấm, hồng đất.
+- Màu được lưu cục bộ và áp dụng ngay; không cần khởi động lại ứng dụng.
+
+### Android launcher icon
+Workflow copies Android mipmap launcher resources and adaptive icon resources into the generated Capacitor Android project before Gradle build.
+
+
+## v1.0.4 – Vuốt để quay lại
+- Thêm thao tác vuốt từ mép trái màn hình sang phải để quay về màn hình trước.
+- Có ngưỡng nhận diện cử chỉ để hạn chế kích hoạt nhầm khi cuộn dọc hoặc nhập biểu mẫu.
+- Nút quay lại trong trang chuyên đề và phím Escape/Backspace (khi không nhập liệu) cũng dùng chung lịch sử điều hướng.
+- Tên artifact APK: `Personal-Development-Handbook-1.0.4-debug`.
