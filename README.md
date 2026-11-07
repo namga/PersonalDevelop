@@ -53,3 +53,10 @@ Workflow copies Android mipmap launcher resources and adaptive icon resources in
 - Bỏ số thứ tự dạng 1.1, 2.1… khỏi tiêu đề worksheet.
 - Loại tiêu đề Worksheet thực hành đánh số trong phần nội dung chương vì ứng dụng đã có tiêu đề khu vực worksheet riêng, tránh hiển thị lặp.
 - Điều chỉnh khoảng cách phần giới thiệu ứng dụng và nhãn phiên bản.
+
+
+## v1.0.7 – Đồng bộ toàn bộ worksheet và sửa vuốt Back
+- Bỏ tiền tố số chương/mục (1.1, 2.1… và các biến thể Worksheet 1.1) khỏi tiêu đề của tất cả worksheet trong cả 10 chuyên đề, không chỉ chuyên đề 1.
+- Loại tiêu đề worksheet thực hành bị lặp trong nội dung chương trên cả 10 chuyên đề.
+- Sửa nhận diện vuốt trái-sang-phải: không còn chỉ nhận diện trong vùng 42px sát mép; nhận diện cử chỉ ngang rõ ràng trong vùng nội dung, tránh ô nhập liệu và ưu tiên cuộn dọc.
+- Đồng bộ phiên bản ứng dụng, package và tên APK/artifact thành 1.0.7.

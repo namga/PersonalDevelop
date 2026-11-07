@@ -4,3 +4,6 @@
 
 /* About/version spacing */
 .card .pill{display:inline-block;margin-top:12px}.card p.muted{line-height:1.6}
+
+/* v1.0.7: horizontal back-swipe while preserving vertical page scrolling */
+html, body, #app, .app-shell, .content { touch-action: pan-y; }
