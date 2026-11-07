@@ -1,0 +1,2208 @@
+{
+  "appTitle": "Phát triển bản thân",
+  "intro": [
+    {
+      "style": "Normal",
+      "text": "PERSONAL\nDEVELOPMENT\nHANDBOOK"
+    },
+    {
+      "style": "Normal",
+      "text": "10 CHUYÊN ĐỀ  •  KẾ HOẠCH THỰC HÀNH  •  WORKSHEET"
+    },
+    {
+      "style": "Normal",
+      "text": "PHIÊN BẢN TIẾNG VIỆT  |  2026"
+    },
+    {
+      "style": "Heading 1",
+      "text": "Mục lục"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Lời nói đầu"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Cách sử dụng handbook"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Nguyên tắc sử dụng bằng chứng"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Chương 01. Hiểu bản thân và xây dựng chiến lược phát triển cá nhân"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Chương 02. Quản lý thời gian và tối ưu năng suất cá nhân"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Chương 03. Xây dựng thói quen tốt và thay đổi hành vi"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Chương 04. Thiết kế lối sống khoa học và cân bằng"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Chương 05. Phương pháp học tập hiệu quả và học tập suốt đời"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Chương 06. Quản lý tài chính cá nhân và xây dựng tài sản"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Chương 07. Kiểm soát sự tập trung và quản lý cuộc sống số"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Chương 08. Trí tuệ cảm xúc và khả năng phục hồi tinh thần"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Chương 09. Tư duy phản biện, giải quyết vấn đề và ra quyết định"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Chương 10. Xây dựng hệ thống phát triển bản thân trong 90 ngày"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Kế hoạch tổng hợp 90 ngày"
+    },
+    {
+      "style": "List Bullet",
+      "text": "Tài liệu tham khảo"
+    },
+    {
+      "style": "Heading 1",
+      "text": "Lời nói đầu"
+    },
+    {
+      "style": "Normal",
+      "text": "Cuốn handbook này được thiết kế cho người trưởng thành muốn cải thiện chất lượng cuộc sống bằng những phương pháp có thể kiểm tra và thực hành. Nội dung kết hợp tâm lý học, khoa học nhận thức, giáo dục, quản trị và kiến thức sức khỏe cộng đồng."
+    },
+    {
+      "style": "Normal",
+      "text": "Đây là tài liệu giáo dục và tự phát triển, không phải tư vấn y tế, tâm lý, pháp lý, thuế hoặc đầu tư cá nhân. Các ví dụ nhân vật là tình huống tổng hợp nhằm minh họa cách áp dụng, không phải nghiên cứu trường hợp có thật."
+    },
+    {
+      "style": "Normal",
+      "text": "Người đọc không cần thực hiện tất cả bài tập cùng lúc. Hãy chọn một vấn đề có ý nghĩa, thử nghiệm trong thời gian đủ dài, ghi nhận kết quả và điều chỉnh. Nếu một phương pháp không phù hợp với hoàn cảnh hoặc sức khỏe, hãy thay đổi hoặc tìm hỗ trợ chuyên môn."
+    },
+    {
+      "style": "Heading 1",
+      "text": "Cách sử dụng handbook"
+    },
+    {
+      "style": "Normal",
+      "text": "Mỗi chương có sáu phần: nền tảng học thuật; phân tích vấn đề; phương pháp; hướng dẫn thực hiện; tình huống minh họa; kế hoạch và worksheet. Hãy đọc phần lý thuyết để hiểu nguyên lý, sau đó chọn một công cụ để thử nghiệm. Template có thể sao chép vào sổ tay, bảng tính hoặc ứng dụng ghi chú."
+    },
+    {
+      "style": "Normal",
+      "text": "Đề xuất nhịp học: một chương mỗi tuần. Dành 30–60 phút đọc, 20–30 phút điền worksheet và một tuần thực hành. Với chương 90 ngày, hãy dùng làm khung tổng hợp sau khi đã hiểu các thành phần."
+    },
+    {
+      "style": "Normal",
+      "text": "Để đánh giá tiến bộ, ghi nhận đường cơ sở trước khi thay đổi. So sánh cùng một chỉ số ở các thời điểm khác nhau; không suy luận quá nhiều từ một ngày tốt hoặc xấu."
+    },
+    {
+      "style": "Heading 1",
+      "text": "Nguyên tắc sử dụng bằng chứng"
+    },
+    {
+      "style": "Normal",
+      "text": "Trong handbook, các mô hình được trình bày như công cụ tư duy, không phải công thức phổ quát. Một số mô hình phổ biến như SWOT, SMART, Eisenhower Matrix, 50/30/20 và Pomodoro có ích cho việc tổ chức hành động nhưng không phải tất cả đều là lý thuyết khoa học đã được kiểm định như nhau."
+    },
+    {
+      "style": "Normal",
+      "text": "Khi có khác biệt giữa lời khuyên phổ biến và nghiên cứu, hãy ưu tiên bằng chứng tổng quan và hướng dẫn của tổ chức chuyên môn. Cần phân biệt tương quan với quan hệ nhân quả, kết quả nghiên cứu trong mẫu cụ thể với kết luận áp dụng cho mọi người, và mô hình giả định với dự báo thực tế."
+    },
+    {
+      "style": "Normal",
+      "text": "Dùng chu kỳ 90 ngày để tích hợp các kỹ năng thay vì cố thay đổi mọi lĩnh vực cùng lúc."
+    },
+    {
+      "style": "Heading 2",
+      "text": "Weekly Review – 30 phút mỗi tuần"
+    },
+    {
+      "style": "List Number",
+      "text": "Ba kết quả quan trọng đã hoàn thành là gì?"
+    },
+    {
+      "style": "List Number",
+      "text": "Dữ liệu nào cho thấy tiến bộ?"
+    },
+    {
+      "style": "List Number",
+      "text": "Việc gì chiếm thời gian hoặc tiền bạc ngoài dự kiến?"
+    },
+    {
+      "style": "List Number",
+      "text": "Trở ngại lớn nhất là gì và nguyên nhân có thể thay đổi?"
+    },
+    {
+      "style": "List Number",
+      "text": "Ba ưu tiên của tuần tới là gì?"
+    },
+    {
+      "style": "Heading 1",
+      "text": "Tài liệu tham khảo tổng hợp (APA 7)"
+    },
+    {
+      "style": "Normal",
+      "text": "Deci, E. L., & Ryan, R. M. (2000). The “what” and “why” of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4), 227–268. https://doi.org/10.1207/S15327965PLI1104_01"
+    },
+    {
+      "style": "Normal",
+      "text": "Dweck, C. S. (2006). Mindset: The new psychology of success. Random House."
+    },
+    {
+      "style": "Normal",
+      "text": "Newport, C. (2016). Deep work: Rules for focused success in a distracted world. Grand Central Publishing."
+    },
+    {
+      "style": "Normal",
+      "text": "Claessens, B. J. C., van Eerde, W., Rutte, C. G., & Roe, R. A. (2007). A review of the time management literature. Personnel Review, 36(2), 255–276. https://doi.org/10.1108/00483480710726136"
+    },
+    {
+      "style": "Normal",
+      "text": "Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009. https://doi.org/10.1002/ejsp.674"
+    },
+    {
+      "style": "Normal",
+      "text": "Fogg, B. J. (2020). Tiny habits: The small changes that change everything. Houghton Mifflin Harcourt."
+    },
+    {
+      "style": "Normal",
+      "text": "Wood, W., & Rünger, D. (2016). Psychology of habit. Annual Review of Psychology, 67, 289–314. https://doi.org/10.1146/annurev-psych-122414-033417"
+    },
+    {
+      "style": "Normal",
+      "text": "World Health Organization. (2020). WHO guidelines on physical activity and sedentary behaviour. World Health Organization. https://www.who.int/publications/i/item/9789240015128"
+    },
+    {
+      "style": "Normal",
+      "text": "Watson, N. F., et al. (2015). Recommended amount of sleep for a healthy adult: A joint consensus recommendation of the American Academy of Sleep Medicine and Sleep Research Society. Sleep, 38(6), 843–844. https://doi.org/10.5665/sleep.4716"
+    },
+    {
+      "style": "Normal",
+      "text": "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students’ learning with effective learning techniques. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1111/j.1539-6053.2013.01003.x"
+    },
+    {
+      "style": "Normal",
+      "text": "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. https://doi.org/10.1111/j.1467-9280.2006.01693.x"
+    },
+    {
+      "style": "Normal",
+      "text": "OECD. (2023). OECD/INFE 2023 international survey of adult financial literacy. OECD Publishing. https://www.oecd.org/financial/education/"
+    },
+    {
+      "style": "Normal",
+      "text": "Lusardi, A., & Mitchell, O. S. (2014). The economic importance of financial literacy: Theory and evidence. Journal of Economic Literature, 52(1), 5–44. https://doi.org/10.1257/jel.52.1.5"
+    },
+    {
+      "style": "Normal",
+      "text": "Mark, G., Gudith, D., & Klocke, U. (2008). The cost of interrupted work: More speed and stress. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 107–110. https://doi.org/10.1145/1357054.1357072"
+    },
+    {
+      "style": "Normal",
+      "text": "Newport, C. (2019). Digital minimalism: Choosing a focused life in a noisy world. Portfolio."
+    },
+    {
+      "style": "Normal",
+      "text": "Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. Review of General Psychology, 2(3), 271–299. https://doi.org/10.1037/1089-2680.2.3.271"
+    },
+    {
+      "style": "Normal",
+      "text": "Gross, J. J. (Ed.). (2014). Handbook of emotion regulation (2nd ed.). Guilford Press."
+    },
+    {
+      "style": "Normal",
+      "text": "Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux."
+    },
+    {
+      "style": "Normal",
+      "text": "Thaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving decisions about health, wealth, and happiness. Yale University Press."
+    },
+    {
+      "style": "Normal",
+      "text": "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. American Psychologist, 57(9), 705–717. https://doi.org/10.1037/0003-066X.57.9.705"
+    },
+    {
+      "style": "Normal",
+      "text": "Deming, W. E. (1986). Out of the crisis. MIT Press."
+    },
+    {
+      "style": "Normal",
+      "text": "Ghi chú biên tập: Danh mục trên là tài liệu nền tảng được trích dẫn trong handbook. Khi sử dụng cho xuất bản học thuật chính thức, cần kiểm tra lại metadata, DOI, số trang và phiên bản theo cơ sở dữ liệu thư viện hoặc trang nhà xuất bản."
+    }
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "number": 1,
+      "title": "Hiểu bản thân và xây dựng chiến lược phát triển cá nhân",
+      "subtitle": "Từ nhận thức hiện trạng đến một kế hoạch phát triển có chủ đích",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Hiểu bản thân và xây dựng chiến lược phát triển cá nhân"
+        },
+        {
+          "type": "paragraph",
+          "text": "Từ nhận thức hiện trạng đến một kế hoạch phát triển có chủ đích"
+        },
+        {
+          "type": "paragraph",
+          "text": "Phát triển cá nhân thường bắt đầu bằng một danh sách mong muốn: tăng thu nhập, học ngoại ngữ, cải thiện sức khỏe, thăng tiến hoặc sống kỷ luật hơn. Nhưng mong muốn chưa phải là chiến lược. Một chiến lược tốt phải bắt đầu từ dữ liệu về hiện trạng, làm rõ điều gì có ý nghĩa, xác định khoảng cách năng lực và lựa chọn một số thay đổi có thể thực hiện trong điều kiện thực tế."
+        },
+        {
+          "type": "paragraph",
+          "text": "Self-awareness là khả năng quan sát và diễn giải tương đối chính xác suy nghĩ, cảm xúc, động cơ và hành vi của bản thân. Nó không đồng nghĩa với việc luôn hiểu rõ mình; tự nhận thức có thể sai lệch do ký ức chọn lọc, thiên kiến xác nhận và cách ta muốn nhìn nhận chính mình. Vì vậy, nên kết hợp tự phản tư với bằng chứng bên ngoài như kết quả công việc, dữ liệu thời gian, phản hồi đáng tin cậy và hành vi quan sát được."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thuyết Tự quyết (Self-Determination Theory) của Deci và Ryan nhấn mạnh ba nhu cầu tâm lý: tự chủ, năng lực và kết nối. Mục tiêu có ý nghĩa cá nhân, cho phép lựa chọn cách thực hiện, tạo cơ hội tiến bộ và có sự hỗ trợ xã hội thường dễ duy trì hơn mục tiêu chỉ xuất phát từ áp lực bên ngoài. Tư duy phát triển (growth mindset) khuyến khích xem năng lực là thứ có thể cải thiện thông qua chiến lược, thực hành và phản hồi; điều đó không có nghĩa nỗ lực đơn thuần bảo đảm thành công bất kể nguồn lực và hoàn cảnh."
+        },
+        {
+          "type": "heading",
+          "text": "2. Phân tích hiện trạng: Personal SWOT"
+        },
+        {
+          "type": "paragraph",
+          "text": "SWOT giúp tổ chức suy nghĩ thành bốn nhóm: điểm mạnh, điểm yếu, cơ hội và rủi ro. Đây là công cụ lập kế hoạch, không phải trắc nghiệm tâm lý đã được chuẩn hóa. Hãy mô tả từng yếu tố bằng bằng chứng. Thay vì ghi “giao tiếp kém”, hãy ghi “trong ba cuộc họp gần nhất, tôi chưa trình bày được đề xuất có cấu trúc”. Thay vì ghi “có năng lực lãnh đạo”, hãy ghi “đã điều phối nhóm bốn người hoàn thành dự án đúng hạn”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sau SWOT, chọn một khoảng cách quan trọng nhất. Đừng cố sửa mọi điểm yếu cùng lúc. Đánh giá mức ảnh hưởng, khả năng thay đổi, thời gian và nguồn lực. Một kỹ năng có ảnh hưởng cao nhưng cần sáu tháng có thể được chia thành các mốc nhỏ hơn."
+        },
+        {
+          "type": "heading",
+          "text": "3. Quy trình triển khai"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bước 1: Chụp ảnh hiện trạng trong năm lĩnh vực: công việc, tài chính, sức khỏe, học tập và quan hệ. Bước 2: Thu thập dữ liệu thực tế trong 7 ngày, chẳng hạn thời gian sử dụng, chi tiêu, giờ ngủ và tiến độ công việc. Bước 3: Viết 5 giá trị quan trọng nhất, rồi chọn 2–3 giá trị cần phản ánh rõ hơn trong lịch sống. Bước 4: Chọn tối đa ba mục tiêu 90 ngày. Bước 5: Với mỗi mục tiêu, xác định kết quả, chỉ số, hành động hàng tuần, nguồn lực và trở ngại. Bước 6: Xin phản hồi từ một người hiểu bối cảnh của bạn. Bước 7: rà soát mỗi tuần và điều chỉnh thay vì coi kế hoạch là cam kết bất biến."
+        },
+        {
+          "type": "heading",
+          "text": "4. Case study minh họa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minh, 32 tuổi, muốn thăng tiến nhưng cảm thấy thiếu thời gian. Minh ban đầu đặt mục tiêu học hai kỹ năng cùng lúc. Time audit cho thấy gần hai giờ mỗi tối bị tiêu tốn vào lướt mạng và Minh thường ngủ muộn. Phản hồi từ quản lý cho thấy điểm nghẽn chính không phải kiến thức chuyên môn mà là khả năng trình bày phân tích. Minh đổi mục tiêu thành: mỗi tuần thực hiện một bài phân tích ngắn, trình bày trong cuộc họp nhóm hai lần mỗi tháng và duy trì 30 phút học có chủ đích bốn ngày mỗi tuần. Tình huống này minh họa cách chuyển mục tiêu mơ hồ thành năng lực có thể quan sát."
+        },
+        {
+          "type": "heading",
+          "text": "5. Kế hoạch 30 ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ngày 1–7: ghi nhận hiện trạng và làm SWOT. Ngày 8–14: xác định giá trị, vai trò và ưu tiên. Ngày 15–21: chọn một mục tiêu chính và chia nhỏ thành hành động. Ngày 22–30: thử nghiệm lịch, xin phản hồi và chốt bản kế hoạch 90 ngày. Kết quả đầu ra gồm một trang SWOT, ba mục tiêu, lịch hành động tuần và danh sách rủi ro."
+        },
+        {
+          "type": "section",
+          "text": "7. Worksheet thực hành"
+        },
+        {
+          "type": "subheading",
+          "text": "1.1 Personal SWOT"
+        },
+        {
+          "type": "subheading",
+          "text": "1.2 Ba mục tiêu trong 90 ngày"
+        },
+        {
+          "type": "subheading",
+          "text": "1.3 Phản tư cuối tuần"
+        },
+        {
+          "type": "heading",
+          "text": "Tài liệu tham khảo chương"
+        },
+        {
+          "type": "reference",
+          "text": "Deci, E. L., & Ryan, R. M. (2000). The “what” and “why” of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4), 227–268. https://doi.org/10.1207/S15327965PLI1104_01"
+        },
+        {
+          "type": "reference",
+          "text": "Dweck, C. S. (2006). Mindset: The new psychology of success. Random House."
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "1.1 Personal SWOT",
+          "headers": [
+            "ĐIỂM MẠNH — bằng chứng cụ thể",
+            "ĐIỂM YẾU — hành vi cần cải thiện",
+            "CƠ HỘI — điều kiện bên ngoài",
+            "RỦI RO — yếu tố cản trở"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "columns": 4
+        },
+        {
+          "title": "1.2 Ba mục tiêu trong 90 ngày",
+          "headers": [
+            "Mục tiêu cụ thể",
+            ""
+          ],
+          "rows": [
+            [
+              "Vì sao mục tiêu quan trọng?",
+              ""
+            ],
+            [
+              "Kết quả đo được / chỉ số đích",
+              ""
+            ],
+            [
+              "Hành động lặp lại mỗi tuần",
+              ""
+            ],
+            [
+              "Nguồn lực cần có",
+              ""
+            ],
+            [
+              "Trở ngại có thể gặp",
+              ""
+            ],
+            [
+              "Phương án dự phòng",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "1.3 Phản tư cuối tuần",
+          "headers": [
+            "Điều gì đã tiến triển?",
+            ""
+          ],
+          "rows": [
+            [
+              "Bằng chứng cho thấy tiến triển",
+              ""
+            ],
+            [
+              "Điều gì chưa hiệu quả? Vì sao?",
+              ""
+            ],
+            [
+              "Một thay đổi tôi sẽ thử tuần tới",
+              ""
+            ]
+          ],
+          "columns": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "title": "Quản lý thời gian và tối ưu năng suất cá nhân",
+      "subtitle": "Ưu tiên đúng việc, bảo vệ sự chú ý và thiết kế tuần làm việc thực tế",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quản lý thời gian và tối ưu năng suất cá nhân"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ưu tiên đúng việc, bảo vệ sự chú ý và thiết kế tuần làm việc thực tế"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quản lý thời gian không phải nhồi càng nhiều nhiệm vụ vào lịch càng tốt. Đó là quá trình lựa chọn việc đáng làm, phân bổ thời gian và năng lượng, đồng thời chừa khoảng trống cho biến động. Năng suất nên được đánh giá bằng giá trị và chất lượng đầu ra, không chỉ bằng số giờ bận rộn."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thời gian là nguồn lực hữu hạn, nhưng sự chú ý và năng lượng nhận thức cũng có giới hạn. Chuyển đổi nhiệm vụ có thể tạo chi phí tái định hướng; khi một người liên tục đổi giữa email, tin nhắn và công việc phân tích, một phần chú ý có thể còn lưu lại ở nhiệm vụ trước. Vì vậy, gom các việc tương tự và tạo khối tập trung thường hữu ích hơn xử lý mọi thứ ngay khi chúng xuất hiện."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eisenhower Matrix là công cụ phân loại theo mức quan trọng và khẩn cấp. Pareto 80/20 là một nguyên lý quan sát về phân bố không đồng đều, không phải định luật bảo đảm rằng đúng 20% nhiệm vụ luôn tạo ra 80% kết quả. Parkinson’s Law là lời nhắc rằng nhiệm vụ có thể phình ra theo thời gian được cấp; nó không có nghĩa mọi công việc đều có thể rút ngắn tùy ý."
+        },
+        {
+          "type": "heading",
+          "text": "2. Hệ thống ưu tiên"
+        },
+        {
+          "type": "paragraph",
+          "text": "Phân loại nhiệm vụ thành bốn nhóm: quan trọng-khẩn cấp, quan trọng-chưa khẩn cấp, ít quan trọng-khẩn cấp và ít quan trọng-chưa khẩn cấp. Phần phát triển dài hạn thường nằm ở nhóm quan trọng nhưng chưa khẩn cấp: học kỹ năng, chăm sóc sức khỏe, xây dựng quan hệ và chuẩn bị dự án. Nếu nhóm này liên tục bị lấn át, cuộc sống sẽ vận hành trong chế độ chữa cháy."
+        },
+        {
+          "type": "heading",
+          "text": "3. Quy trình thực hành"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bước 1: làm Time Audit trong 7 ngày, ghi theo khối 30–60 phút. Bước 2: đánh dấu việc bắt buộc, việc tạo giá trị và việc có thể bỏ/ủy quyền. Bước 3: chọn ba kết quả quan trọng nhất trong tuần. Bước 4: đặt các khối tập trung vào thời điểm năng lượng tốt nhất. Bước 5: gom email và việc hành chính vào khung riêng. Bước 6: thêm khoảng đệm 10–20% lịch để xử lý phát sinh. Bước 7: cuối tuần so sánh kế hoạch với thực tế và tìm nguyên nhân chênh lệch."
+        },
+        {
+          "type": "heading",
+          "text": "4. Time blocking và Pomodoro"
+        },
+        {
+          "type": "paragraph",
+          "text": "Time blocking gán một mục đích cho một khoảng thời gian. Khối tập trung có thể dài 25, 50 hoặc 90 phút tùy nhiệm vụ và sức bền cá nhân; không có một độ dài tối ưu cho tất cả. Pomodoro 25/5 là một cấu trúc dễ bắt đầu, không phải quy luật khoa học bắt buộc. Trong khối tập trung, đóng các tab không liên quan, để điện thoại ngoài tầm với và ghi lại việc phát sinh để xử lý sau."
+        },
+        {
+          "type": "heading",
+          "text": "5. Case study"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lan làm kinh doanh và cảm thấy cả ngày bận nhưng không phát triển được khách hàng mới. Time audit cho thấy cô kiểm tra email liên tục và xử lý yêu cầu nhỏ vào giờ làm việc tốt nhất. Cô chuyển sang hai khối gọi khách hàng vào buổi sáng, ba khung xử lý email mỗi ngày và một khối cập nhật CRM cuối buổi. Cô đo số cuộc trao đổi đủ điều kiện, số cuộc hẹn và tỷ lệ chuyển đổi thay vì chỉ đếm số giờ làm."
+        },
+        {
+          "type": "heading",
+          "text": "6. Kế hoạch 4 tuần"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tuần 1: ghi nhận thời gian. Tuần 2: phân loại và loại bỏ việc ít giá trị. Tuần 3: áp dụng time blocking. Tuần 4: thực hiện weekly review và điều chỉnh. Mục tiêu không phải đạt lịch hoàn hảo mà là tăng tỷ lệ thời gian dành cho ưu tiên quan trọng."
+        },
+        {
+          "type": "section",
+          "text": "7. Worksheet thực hành"
+        },
+        {
+          "type": "subheading",
+          "text": "2.1 Time audit — nhật ký sử dụng thời gian"
+        },
+        {
+          "type": "subheading",
+          "text": "2.2 Weekly Top 3 — ba kết quả ưu tiên"
+        },
+        {
+          "type": "subheading",
+          "text": "2.3 Rà soát thời gian cuối tuần"
+        },
+        {
+          "type": "heading",
+          "text": "Tài liệu tham khảo chương"
+        },
+        {
+          "type": "reference",
+          "text": "Newport, C. (2016). Deep work: Rules for focused success in a distracted world. Grand Central Publishing."
+        },
+        {
+          "type": "reference",
+          "text": "Claessens, B. J. C., van Eerde, W., Rutte, C. G., & Roe, R. A. (2007). A review of the time management literature. Personnel Review, 36(2), 255–276. https://doi.org/10.1108/00483480710726136"
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "2.1 Time audit — nhật ký sử dụng thời gian",
+          "headers": [
+            "Ngày",
+            ""
+          ],
+          "rows": [
+            [
+              "Khung giờ",
+              ""
+            ],
+            [
+              "Hoạt động thực tế",
+              ""
+            ],
+            [
+              "Mức tập trung (1–5)",
+              ""
+            ],
+            [
+              "Giá trị tạo ra (cao/vừa/thấp)",
+              ""
+            ],
+            [
+              "Có thể thay đổi? / Cách thay đổi",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "2.2 Weekly Top 3 — ba kết quả ưu tiên",
+          "headers": [
+            "Kết quả ưu tiên",
+            ""
+          ],
+          "rows": [
+            [
+              "Bước tiếp theo cụ thể",
+              ""
+            ],
+            [
+              "Thời gian đặt lịch",
+              ""
+            ],
+            [
+              "Tiêu chí hoàn thành",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "2.3 Rà soát thời gian cuối tuần",
+          "headers": [
+            "Việc chiếm thời gian ngoài dự kiến",
+            ""
+          ],
+          "rows": [
+            [
+              "Việc tạo giá trị cao nhất",
+              ""
+            ],
+            [
+              "Việc cần bỏ / gom nhóm / ủy quyền",
+              ""
+            ],
+            [
+              "Việc cần đặt lịch tuần tới",
+              ""
+            ]
+          ],
+          "columns": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "title": "Xây dựng thói quen tốt và thay đổi hành vi",
+      "subtitle": "Thiết kế tín hiệu, giảm ma sát và duy trì hành vi trong bối cảnh thực tế",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Xây dựng thói quen tốt và thay đổi hành vi"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thiết kế tín hiệu, giảm ma sát và duy trì hành vi trong bối cảnh thực tế"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thói quen là những hành vi được kích hoạt tương đối tự động bởi tín hiệu quen thuộc trong bối cảnh lặp lại. Muốn thay đổi hành vi, chỉ quyết tâm thường chưa đủ. Cần thiết kế môi trường, tín hiệu, độ khó và phần thưởng sao cho hành vi mong muốn dễ xảy ra hơn."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nghiên cứu của Lally và cộng sự (2010) cho thấy mức độ tự động hóa thói quen tăng dần qua việc lặp lại hành vi trong bối cảnh ổn định; thời gian khác nhau đáng kể giữa người và loại hành vi. Vì vậy, mốc 21 ngày không phải quy tắc phổ quát. Mô hình hành vi của Fogg nhấn mạnh hành vi xuất hiện khi động lực, khả năng thực hiện và lời nhắc cùng hội tụ. Khi động lực thấp, giảm độ khó và làm tín hiệu rõ ràng có thể hữu ích hơn việc tự trách mình."
+        },
+        {
+          "type": "heading",
+          "text": "2. Thiết kế hành vi"
+        },
+        {
+          "type": "paragraph",
+          "text": "Một thói quen nên được mô tả bằng hành vi quan sát được, không phải ý định chung. “Sống khỏe hơn” quá mơ hồ; “đi bộ 15 phút sau bữa tối thứ Hai, Tư, Sáu” rõ hơn. Habit stacking gắn hành vi mới với một hành vi đã ổn định: sau khi pha cà phê, tôi mở tài liệu học 10 phút. Implementation intention dùng cấu trúc “Nếu [tình huống], thì tôi sẽ [hành động]”."
+        },
+        {
+          "type": "heading",
+          "text": "3. Quy trình 7 bước"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chọn một hành vi có giá trị; xác định tín hiệu; giảm hành vi xuống mức tối thiểu; chuẩn bị môi trường; xác định thời gian và địa điểm; theo dõi việc thực hiện; xem xét tăng dần độ khó. Hãy tạo phiên bản tối thiểu cho ngày bận rộn. Ví dụ, kế hoạch tập luyện 30 phút có phiên bản dự phòng 5 phút vận động. Phiên bản tối thiểu không thay thế mục tiêu dài hạn mà giúp giữ tính liên tục trong điều kiện khó."
+        },
+        {
+          "type": "heading",
+          "text": "4. Phục hồi sau khi bỏ lỡ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bỏ lỡ một lần không đồng nghĩa thất bại. Hãy phân tích nguyên nhân: quên tín hiệu, lịch quá dày, hành vi quá khó, môi trường cản trở hay mục tiêu không còn phù hợp. Sau đó sửa thiết kế. Tránh biến một ngày bỏ lỡ thành kết luận tiêu cực về bản thân. Đo tỷ lệ thực hiện trong một khoảng thời gian, đồng thời quan sát chất lượng và tác động của hành vi."
+        },
+        {
+          "type": "heading",
+          "text": "5. Case study"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hùng muốn đọc 20 trang mỗi tối nhưng thường kiệt sức sau giờ làm. Anh chuyển sách ra bàn ăn, đọc hai trang sau bữa sáng và đánh dấu vào lịch. Sau hai tuần, anh tăng lên năm trang khi phù hợp. Khi đi công tác, anh dùng sách điện tử và đọc một trang. Sự thay đổi quan trọng không phải tăng quyết tâm mà là giảm ma sát và gắn hành vi vào tín hiệu ổn định."
+        },
+        {
+          "type": "heading",
+          "text": "6. Kế hoạch 30 ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ngày 1–7: chọn một thói quen và thử hành vi tối thiểu. Ngày 8–14: ổn định tín hiệu. Ngày 15–21: điều chỉnh môi trường. Ngày 22–30: xem xét mức tự động, lợi ích và trở ngại. Chỉ tăng độ khó khi hành vi hiện tại tương đối ổn định."
+        },
+        {
+          "type": "section",
+          "text": "7. Worksheet thực hành"
+        },
+        {
+          "type": "subheading",
+          "text": "3.1 Habit card — thiết kế thói quen"
+        },
+        {
+          "type": "subheading",
+          "text": "3.2 Kế hoạch nếu–thì (If–Then)"
+        },
+        {
+          "type": "subheading",
+          "text": "3.3 Habit tracker — theo dõi 30 ngày"
+        },
+        {
+          "type": "heading",
+          "text": "Tài liệu tham khảo chương"
+        },
+        {
+          "type": "reference",
+          "text": "Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009. https://doi.org/10.1002/ejsp.674"
+        },
+        {
+          "type": "reference",
+          "text": "Fogg, B. J. (2020). Tiny habits: The small changes that change everything. Houghton Mifflin Harcourt."
+        },
+        {
+          "type": "reference",
+          "text": "Wood, W., & Rünger, D. (2016). Psychology of habit. Annual Review of Psychology, 67, 289–314. https://doi.org/10.1146/annurev-psych-122414-033417"
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "3.1 Habit card — thiết kế thói quen",
+          "headers": [
+            "Hành vi muốn xây dựng",
+            ""
+          ],
+          "rows": [
+            [
+              "Tín hiệu / thời điểm kích hoạt",
+              ""
+            ],
+            [
+              "Địa điểm / bối cảnh",
+              ""
+            ],
+            [
+              "Phiên bản tối thiểu (≤2 phút)",
+              ""
+            ],
+            [
+              "Phiên bản đầy đủ",
+              ""
+            ],
+            [
+              "Phần thưởng / cách ghi nhận",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "3.2 Kế hoạch nếu–thì (If–Then)",
+          "headers": [
+            "Nếu tình huống / tín hiệu này xảy ra…",
+            ""
+          ],
+          "rows": [
+            [
+              "…thì tôi sẽ thực hiện hành vi…",
+              ""
+            ],
+            [
+              "Địa điểm / thời điểm",
+              ""
+            ],
+            [
+              "Nếu trở ngại xuất hiện…",
+              ""
+            ],
+            [
+              "Phương án dự phòng",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "3.3 Habit tracker — theo dõi 30 ngày",
+          "headers": [
+            "Ngày",
+            "Đã thực hiện?",
+            "Tối thiểu / đầy đủ",
+            "Trở ngại hoặc ghi chú",
+            "Điều chỉnh cho ngày mai"
+          ],
+          "rows": [
+            [
+              "1",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "14",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "15",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "17",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "18",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "19",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "20",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "21",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "22",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "23",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "24",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "25",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "26",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "27",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "28",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "29",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "30",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          "columns": 5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "title": "Thiết kế lối sống khoa học và cân bằng",
+      "subtitle": "Kết nối giấc ngủ, vận động, dinh dưỡng, phục hồi và trách nhiệm cá nhân",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Thiết kế lối sống khoa học và cân bằng"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kết nối giấc ngủ, vận động, dinh dưỡng, phục hồi và trách nhiệm cá nhân"
+        },
+        {
+          "type": "paragraph",
+          "text": "Một lịch sống tốt không phải lịch kín đặc hoạt động. Nó là cấu trúc giúp đáp ứng các nhu cầu cơ bản, bảo vệ sức khỏe và dành chỗ cho những vai trò quan trọng. Thiết kế lối sống cần cá nhân hóa theo công việc, gia đình, sức khỏe, điều kiện kinh tế và nhịp sinh học."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nhịp sinh học điều phối nhiều quá trình sinh lý theo chu kỳ gần 24 giờ và chịu ảnh hưởng bởi ánh sáng, thời điểm hoạt động, ăn uống và lịch ngủ. Tính đều đặn của lịch ngủ-thức có thể hỗ trợ đồng bộ nhịp sống. Với người trưởng thành, khuyến nghị sức khỏe cộng đồng thường nhấn mạnh ngủ ít nhất khoảng 7 giờ mỗi đêm, nhưng nhu cầu cá nhân và chất lượng giấc ngủ cũng quan trọng."
+        },
+        {
+          "type": "paragraph",
+          "text": "WHO khuyến nghị người trưởng thành tích lũy 150–300 phút hoạt động thể chất aerobic cường độ vừa mỗi tuần, hoặc 75–150 phút cường độ mạnh, cùng hoạt động tăng cường cơ ít nhất hai ngày mỗi tuần. Người ít vận động nên bắt đầu ở mức phù hợp và tăng dần; người có bệnh lý hoặc triệu chứng cần hỏi chuyên gia y tế."
+        },
+        {
+          "type": "heading",
+          "text": "2. Bốn trụ cột"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giấc ngủ: giữ khung giờ tương đối ổn định, tạo môi trường tối và yên tĩnh, giảm yếu tố kích thích gần giờ ngủ. Vận động: kết hợp hoạt động aerobic, tăng cường cơ và vận động nhẹ trong ngày. Dinh dưỡng: ưu tiên đa dạng thực phẩm, rau quả, nguồn đạm phù hợp, chất xơ và kiểm soát khẩu phần theo nhu cầu. Phục hồi: dành thời gian nghỉ, kết nối xã hội và hoạt động có ý nghĩa. Không có một chế độ ăn hoặc lịch tập duy nhất phù hợp với mọi người."
+        },
+        {
+          "type": "heading",
+          "text": "3. Thiết kế ngày điển hình"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bắt đầu bằng các mốc cố định tương đối: giờ thức dậy, giờ làm việc, bữa ăn và giờ đi ngủ. Sau đó đặt hoạt động linh hoạt vào khoảng trống. Morning routine không cần dài; 15–30 phút vận động nhẹ, chuẩn bị và xem lại ưu tiên có thể đủ. Evening routine nên giảm kích thích, hoàn tất việc cần ghi nhớ và chuyển dần sang nghỉ ngơi. Không hy sinh giấc ngủ để nhồi thêm một thói quen."
+        },
+        {
+          "type": "heading",
+          "text": "4. Quản lý năng lượng"
+        },
+        {
+          "type": "paragraph",
+          "text": "Theo dõi thời điểm tỉnh táo và mệt mỏi trong một tuần. Đặt công việc cần tập trung vào khung giờ phù hợp, còn việc hành chính vào lúc năng lượng thấp hơn. Xen kẽ hoạt động và nghỉ ngắn. Nếu lịch bị phá vỡ do chăm sóc gia đình, ca làm hoặc sức khỏe, thiết kế lịch theo khối linh hoạt thay vì áp dụng thời gian biểu cứng."
+        },
+        {
+          "type": "heading",
+          "text": "5. Case study"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tuấn làm việc văn phòng, thường về nhà muộn và ngủ thất thường. Anh không đặt mục tiêu dậy lúc 5 giờ sáng. Anh chọn giờ thức dậy khả thi, dịch giờ đi ngủ sớm hơn từng bước, đi bộ 15 phút ba buổi mỗi tuần và chuẩn bị bữa trưa trước. Sau một tháng, anh xem lại mức năng lượng, chất lượng ngủ và khả năng duy trì. Thành công được đo bằng sự phù hợp và nhất quán, không phải lịch trình giống người khác."
+        },
+        {
+          "type": "heading",
+          "text": "6. Kế hoạch 4 tuần"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tuần 1: ghi nhật ký ngủ, ăn, vận động và năng lượng. Tuần 2: ổn định một mốc ngủ-thức. Tuần 3: bổ sung vận động phù hợp. Tuần 4: cải thiện bữa ăn và khoảng nghỉ. Chọn một thay đổi mỗi lần để dễ nhận biết tác động."
+        },
+        {
+          "type": "section",
+          "text": "7. Worksheet thực hành"
+        },
+        {
+          "type": "subheading",
+          "text": "4.1 Nhật ký sinh hoạt hằng ngày"
+        },
+        {
+          "type": "subheading",
+          "text": "4.2 Kế hoạch sức khỏe tuần"
+        },
+        {
+          "type": "subheading",
+          "text": "4.3 Rà soát lối sống"
+        },
+        {
+          "type": "heading",
+          "text": "Tài liệu tham khảo chương"
+        },
+        {
+          "type": "reference",
+          "text": "World Health Organization. (2020). WHO guidelines on physical activity and sedentary behaviour. World Health Organization. https://www.who.int/publications/i/item/9789240015128"
+        },
+        {
+          "type": "reference",
+          "text": "Watson, N. F., et al. (2015). Recommended amount of sleep for a healthy adult: A joint consensus recommendation of the American Academy of Sleep Medicine and Sleep Research Society. Sleep, 38(6), 843–844. https://doi.org/10.5665/sleep.4716"
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "4.1 Nhật ký sinh hoạt hằng ngày",
+          "headers": [
+            "Ngày",
+            ""
+          ],
+          "rows": [
+            [
+              "Giờ ngủ / thức",
+              ""
+            ],
+            [
+              "Năng lượng sáng – trưa – tối (1–5)",
+              ""
+            ],
+            [
+              "Vận động",
+              ""
+            ],
+            [
+              "Bữa ăn / nước uống",
+              ""
+            ],
+            [
+              "Nghỉ ngơi / ghi chú",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "4.2 Kế hoạch sức khỏe tuần",
+          "headers": [
+            "Hoạt động aerobic (loại, ngày, phút)",
+            ""
+          ],
+          "rows": [
+            [
+              "Tăng cường cơ (bài tập, ngày)",
+              ""
+            ],
+            [
+              "Thời gian phục hồi",
+              ""
+            ],
+            [
+              "Điều chỉnh môi trường ngủ",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "4.3 Rà soát lối sống",
+          "headers": [
+            "Thói quen giúp tôi khỏe hơn",
+            ""
+          ],
+          "rows": [
+            [
+              "Yếu tố làm lịch sinh hoạt mất ổn định",
+              ""
+            ],
+            [
+              "Hỗ trợ / điều chỉnh cần thiết",
+              ""
+            ]
+          ],
+          "columns": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "title": "Phương pháp học tập hiệu quả và học tập suốt đời",
+      "subtitle": "Học sâu, nhớ lâu và chuyển kiến thức thành năng lực ứng dụng",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Phương pháp học tập hiệu quả và học tập suốt đời"
+        },
+        {
+          "type": "paragraph",
+          "text": "Học sâu, nhớ lâu và chuyển kiến thức thành năng lực ứng dụng"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đọc nhiều hoặc xem nhiều video không tự động tạo ra năng lực. Học hiệu quả đòi hỏi người học phải truy xuất kiến thức, luyện tập, nhận phản hồi và áp dụng trong tình huống mới. Mục tiêu của học tập người trưởng thành không chỉ là biết mà còn là làm được."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tổng quan của Dunlosky và cộng sự (2013) đánh giá các kỹ thuật học tập phổ biến và cho thấy practice testing (tự kiểm tra) cùng distributed practice (ôn tập phân tán) có mức hữu ích cao trong nhiều bối cảnh. Đọc lại và gạch chân có thể hỗ trợ định hướng nhưng không nên là chiến lược duy nhất. Hiệu quả còn phụ thuộc nội dung, trình độ, chất lượng câu hỏi và cách phản hồi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Active recall yêu cầu người học nhớ lại mà không nhìn tài liệu. Spaced repetition phân bổ các lần ôn theo thời gian. Interleaving xen kẽ các dạng bài hoặc chủ đề có liên quan. Feynman technique là cách giải thích lại bằng ngôn ngữ đơn giản để phát hiện lỗ hổng hiểu biết; đây là một quy trình tự học phổ biến, không phải phép đo khoa học độc lập."
+        },
+        {
+          "type": "heading",
+          "text": "2. Thiết kế mục tiêu năng lực"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tránh mục tiêu “học Excel” hoặc “giỏi tiếng Anh”. Hãy mô tả một nhiệm vụ có thể thực hiện: “tự làm sạch dữ liệu bán hàng, tạo PivotTable và trình bày ba phát hiện”. Phân rã kỹ năng thành kiến thức nền, thao tác, bài tập và sản phẩm. Chọn một nguồn học chính, một nguồn tham khảo và bộ bài tập; tránh sưu tầm tài liệu thay cho luyện tập."
+        },
+        {
+          "type": "heading",
+          "text": "3. Chu kỳ học 60 phút"
+        },
+        {
+          "type": "paragraph",
+          "text": "Một phiên có thể gồm: 10 phút ôn bằng truy xuất; 15 phút học khái niệm mới; 20 phút thực hành; 10 phút tự kiểm tra; 5 phút ghi lại câu hỏi. Tỷ lệ này chỉ là mẫu tham khảo. Với kỹ năng thực hành, tăng thời lượng luyện tập; với nội dung khái niệm, tăng giải thích và tự kiểm tra. Sau mỗi phiên, ghi rõ điều có thể làm độc lập."
+        },
+        {
+          "type": "heading",
+          "text": "4. Phản hồi và chuyển giao"
+        },
+        {
+          "type": "paragraph",
+          "text": "Luyện tập cần phản hồi đủ cụ thể để người học biết lỗi nằm ở đâu. Sau khi làm đúng một dạng bài, hãy thử áp dụng trong bối cảnh khác. Với ngoại ngữ, chuyển từ học từ vựng sang viết email, trình bày và hội thoại. Với phân tích dữ liệu, chuyển từ bài tập hướng dẫn sang bộ dữ liệu chưa quen. Sản phẩm cuối kỳ là bằng chứng năng lực tốt hơn số giờ xem video."
+        },
+        {
+          "type": "heading",
+          "text": "5. Case study"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mai muốn chuyển sang vai trò phân tích dữ liệu. Cô chọn một đầu ra: tạo báo cáo doanh số từ dữ liệu thô. Tháng đầu tập trung Excel và làm sạch dữ liệu; tháng hai học Power Query và trực quan hóa; tháng ba hoàn thiện một dashboard có phần giải thích. Mỗi tuần cô làm bài không xem hướng dẫn và ghi lỗi. Cách này giúp phát hiện phần chưa thành thạo và tạo sản phẩm có thể trình bày."
+        },
+        {
+          "type": "heading",
+          "text": "6. Kế hoạch 90 ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ngày 1–30: nền tảng và bài tập cơ bản. Ngày 31–60: bài tập tổng hợp, tăng độ khó và nhận phản hồi. Ngày 61–90: dự án độc lập, tài liệu hóa quy trình và trình bày kết quả. Đánh giá bằng tiêu chí: độ chính xác, mức độc lập, khả năng giải thích và khả năng áp dụng."
+        },
+        {
+          "type": "section",
+          "text": "7. Worksheet thực hành"
+        },
+        {
+          "type": "subheading",
+          "text": "5.1 Learning brief — bản mô tả học tập"
+        },
+        {
+          "type": "subheading",
+          "text": "5.2 Study session — nhật ký phiên học"
+        },
+        {
+          "type": "subheading",
+          "text": "5.3 Project log — nhật ký dự án học tập"
+        },
+        {
+          "type": "heading",
+          "text": "Tài liệu tham khảo chương"
+        },
+        {
+          "type": "reference",
+          "text": "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students’ learning with effective learning techniques. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1111/j.1539-6053.2013.01003.x"
+        },
+        {
+          "type": "reference",
+          "text": "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. https://doi.org/10.1111/j.1467-9280.2006.01693.x"
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "5.1 Learning brief — bản mô tả học tập",
+          "headers": [
+            "Kỹ năng cần học",
+            ""
+          ],
+          "rows": [
+            [
+              "Tình huống thực tế cần sử dụng",
+              ""
+            ],
+            [
+              "Đầu ra mong muốn sau 90 ngày",
+              ""
+            ],
+            [
+              "Tiêu chí đánh giá đạt",
+              ""
+            ],
+            [
+              "Tài liệu / nguồn học chính",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "5.2 Study session — nhật ký phiên học",
+          "headers": [
+            "Ngày / chủ đề",
+            ""
+          ],
+          "rows": [
+            [
+              "Câu hỏi tự kiểm tra",
+              ""
+            ],
+            [
+              "Bài thực hành đã làm",
+              ""
+            ],
+            [
+              "Lỗi / lỗ hổng phát hiện",
+              ""
+            ],
+            [
+              "Ngày sẽ ôn lại",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "5.3 Project log — nhật ký dự án học tập",
+          "headers": [
+            "Vấn đề cần giải quyết",
+            ""
+          ],
+          "rows": [
+            [
+              "Dữ liệu / đầu vào",
+              ""
+            ],
+            [
+              "Cách tiếp cận / phương pháp",
+              ""
+            ],
+            [
+              "Kết quả thu được",
+              ""
+            ],
+            [
+              "Giới hạn / điều chưa chắc chắn",
+              ""
+            ],
+            [
+              "Bước tiếp theo",
+              ""
+            ]
+          ],
+          "columns": 2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "title": "Quản lý tài chính cá nhân và xây dựng tài sản",
+      "subtitle": "Kiểm soát dòng tiền, dự phòng rủi ro và ra quyết định tài chính có hiểu biết",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Quản lý tài chính cá nhân và xây dựng tài sản"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kiểm soát dòng tiền, dự phòng rủi ro và ra quyết định tài chính có hiểu biết"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tài chính cá nhân là quá trình quản lý thu nhập, chi tiêu, nợ, tiết kiệm và tài sản theo mục tiêu sống. Thu nhập cao không tự động tạo ra an toàn tài chính nếu chi tiêu và nghĩa vụ nợ tăng tương ứng. Nền tảng là biết tiền đi đâu, hiểu rủi ro và thiết lập quyết định phù hợp với thời hạn sử dụng tiền."
+        },
+        {
+          "type": "paragraph",
+          "text": "Năng lực tài chính gồm kiến thức, kỹ năng, thái độ và hành vi cần thiết để đưa ra quyết định phù hợp. Người quản lý tài chính tốt cần hiểu ngân sách, lãi suất, lạm phát, tín dụng, rủi ro, đa dạng hóa và quyền lợi người tiêu dùng. Kiến thức phải đi cùng hành vi: ghi nhận chi tiêu, so sánh điều khoản, tránh vay vượt khả năng và duy trì quỹ dự phòng."
+        },
+        {
+          "type": "heading",
+          "text": "2. Bản đồ tài chính"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tính dòng tiền ròng = tổng thu nhập thực nhận trừ tổng chi phí trong kỳ. Tính tài sản ròng = tổng tài sản trừ tổng nghĩa vụ. Phân loại chi phí thành thiết yếu, linh hoạt, định kỳ, bất thường và trả nợ. Ghi nhận cả các khoản nhỏ, phí đăng ký tự động và chi phí theo mùa. Một tháng dữ liệu thường giúp nhìn ra các khoản rò rỉ mà trí nhớ không phản ánh chính xác."
+        },
+        {
+          "type": "heading",
+          "text": "3. Ngân sách và quỹ dự phòng"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quy tắc 50/30/20 là khung tham khảo: 50% nhu cầu, 30% mong muốn, 20% tiết kiệm và trả nợ. Không nên áp dụng máy móc nếu chi phí nhà ở, người phụ thuộc hoặc thu nhập không ổn định khác biệt. Quỹ dự phòng thường được xây theo số tháng chi phí thiết yếu; mức 3–6 tháng là điểm khởi đầu phổ biến, cần điều chỉnh theo rủi ro nghề nghiệp và gia đình. Quỹ này nên có tính thanh khoản và ít biến động."
+        },
+        {
+          "type": "heading",
+          "text": "4. Nợ, tiết kiệm và đầu tư"
+        },
+        {
+          "type": "paragraph",
+          "text": "Liệt kê dư nợ, lãi suất, khoản trả tối thiểu, ngày đến hạn và phí phạt. Phương pháp avalanche ưu tiên khoản lãi suất cao, thường giảm tổng lãi; snowball ưu tiên khoản nhỏ để tạo cảm giác tiến bộ. Dù chọn cách nào, không bỏ qua khoản thanh toán tối thiểu. Đầu tư cần xét mục tiêu, thời hạn, khả năng chịu lỗ, thanh khoản, phí và mức độ đa dạng hóa. Không có mức sinh lời chắc chắn; lợi nhuận quá cao được quảng cáo như bảo đảm là dấu hiệu cần thận trọng."
+        },
+        {
+          "type": "heading",
+          "text": "5. Case study"
+        },
+        {
+          "type": "paragraph",
+          "text": "Phương có thu nhập thực nhận 30 triệu đồng/tháng nhưng không rõ vì sao cuối tháng còn ít tiền. Sau 30 ngày ghi chép, cô nhận ra mua sắm nhỏ và đặt đồ ăn tăng mạnh vào những ngày làm muộn. Cô không cắt toàn bộ giải trí; thay vào đó đặt hạn mức, chuẩn bị một số bữa ăn và tự động chuyển khoản tiết kiệm sau ngày nhận lương. Cô theo dõi tỷ lệ tiết kiệm và số dư quỹ dự phòng, đồng thời rà soát khoản nợ trước khi đầu tư."
+        },
+        {
+          "type": "heading",
+          "text": "6. Kế hoạch 90 ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tháng 1: chụp ảnh tài chính, ghi thu chi và liệt kê tài sản/nợ. Tháng 2: lập ngân sách, thiết lập chuyển tiền tự động và kế hoạch trả nợ. Tháng 3: xây mục tiêu quỹ dự phòng, rà soát bảo hiểm và học kiến thức đầu tư cơ bản. Trước quyết định lớn, kiểm tra nguồn thông tin và điều khoản pháp lý."
+        },
+        {
+          "type": "section",
+          "text": "7. Worksheet thực hành"
+        },
+        {
+          "type": "subheading",
+          "text": "6.1 Ngân sách cá nhân hằng tháng"
+        },
+        {
+          "type": "subheading",
+          "text": "6.2 Sổ theo dõi nợ"
+        },
+        {
+          "type": "subheading",
+          "text": "6.3 Bảng tính tài sản ròng"
+        },
+        {
+          "type": "heading",
+          "text": "Tài liệu tham khảo chương"
+        },
+        {
+          "type": "paragraph",
+          "text": "OECD. (2023). OECD/INFE 2023 international survey of adult financial literacy. OECD Publishing. https://www.oecd.org/financial/education/"
+        },
+        {
+          "type": "reference",
+          "text": "Lusardi, A., & Mitchell, O. S. (2014). The economic importance of financial literacy: Theory and evidence. Journal of Economic Literature, 52(1), 5–44. https://doi.org/10.1257/jel.52.1.5"
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "6.1 Ngân sách cá nhân hằng tháng",
+          "headers": [
+            "Thu nhập thực nhận",
+            "Số tiền / ghi chú"
+          ],
+          "rows": [
+            [
+              "Nhà ở — dự kiến / thực chi / chênh lệch",
+              ""
+            ],
+            [
+              "Ăn uống — dự kiến / thực chi / chênh lệch",
+              ""
+            ],
+            [
+              "Đi lại — dự kiến / thực chi / chênh lệch",
+              ""
+            ],
+            [
+              "Gia đình — dự kiến / thực chi / chênh lệch",
+              ""
+            ],
+            [
+              "Y tế — dự kiến / thực chi / chênh lệch",
+              ""
+            ],
+            [
+              "Học tập — dự kiến / thực chi / chênh lệch",
+              ""
+            ],
+            [
+              "Giải trí — dự kiến / thực chi / chênh lệch",
+              ""
+            ],
+            [
+              "Trả nợ — dự kiến / thực chi / chênh lệch",
+              ""
+            ],
+            [
+              "Tiết kiệm / đầu tư",
+              ""
+            ],
+            [
+              "Tổng chi",
+              ""
+            ],
+            [
+              "Số dư cuối tháng",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "6.2 Sổ theo dõi nợ",
+          "headers": [
+            "Chủ nợ / khoản vay",
+            ""
+          ],
+          "rows": [
+            [
+              "Dư nợ hiện tại",
+              ""
+            ],
+            [
+              "Lãi suất",
+              ""
+            ],
+            [
+              "Khoản trả tối thiểu",
+              ""
+            ],
+            [
+              "Ngày đến hạn",
+              ""
+            ],
+            [
+              "Chiến lược ưu tiên",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "6.3 Bảng tính tài sản ròng",
+          "headers": [
+            "Tiền gửi / tiết kiệm",
+            ""
+          ],
+          "rows": [
+            [
+              "Tiền mặt",
+              ""
+            ],
+            [
+              "Đầu tư",
+              ""
+            ],
+            [
+              "Tài sản khác",
+              ""
+            ],
+            [
+              "TỔNG TÀI SẢN",
+              ""
+            ],
+            [
+              "Tổng nợ",
+              ""
+            ],
+            [
+              "TÀI SẢN RÒNG",
+              ""
+            ]
+          ],
+          "columns": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "title": "Kiểm soát sự tập trung và quản lý cuộc sống số",
+      "subtitle": "Giảm gián đoạn, thiết kế môi trường và sử dụng công nghệ có chủ đích",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Kiểm soát sự tập trung và quản lý cuộc sống số"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giảm gián đoạn, thiết kế môi trường và sử dụng công nghệ có chủ đích"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trong môi trường số, thông tin luôn sẵn có nhưng sự chú ý lại hữu hạn. Một ngày có thể bị chia nhỏ bởi thông báo, email, tin nhắn và nội dung giải trí. Mục tiêu không phải từ bỏ công nghệ mà là thiết lập quy tắc để công nghệ phục vụ công việc và đời sống thay vì mặc định chiếm thời gian."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trí nhớ làm việc có giới hạn; khi nhiệm vụ đòi hỏi xử lý nhiều yếu tố, thông tin không liên quan có thể làm tăng tải nhận thức. Chuyển đổi nhiệm vụ đòi hỏi tái định hướng mục tiêu và quy tắc. Một số nghiên cứu về gián đoạn cho thấy người lao động có thể bù lại bằng cách làm nhanh hơn, nhưng điều đó không có nghĩa gián đoạn không có chi phí: căng thẳng, lỗi và cảm nhận áp lực có thể tăng."
+        },
+        {
+          "type": "heading",
+          "text": "2. Kiểm toán cuộc sống số"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trong 3–7 ngày, ghi thời gian màn hình, ứng dụng thường mở, số lần kiểm tra thiết bị và thời điểm mất tập trung. Phân loại ứng dụng thành thiết yếu, hỗ trợ, giải trí có chủ đích và ít giá trị. Không nên chỉ dựa vào tổng số giờ: một giờ gọi video với gia đình khác về ý nghĩa với một giờ lướt nội dung vô thức."
+        },
+        {
+          "type": "heading",
+          "text": "3. Thiết kế Focus Block"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chọn một nhiệm vụ cụ thể, xác định tiêu chí hoàn thành và khoảng thời gian phù hợp. Tắt thông báo không thiết yếu, đóng tab không liên quan, chuẩn bị tài liệu trước và để điện thoại ngoài tầm nhìn nếu phù hợp. Dùng danh sách “để sau” để ghi lại ý nghĩ chen ngang. Khi khối tập trung kết thúc, nghỉ ngắn và xử lý các việc giao tiếp trong khung đã định."
+        },
+        {
+          "type": "heading",
+          "text": "4. Digital minimalism"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thiết lập quy tắc theo giá trị: ứng dụng nào giúp làm việc, học tập, kết nối hoặc giải trí có chủ đích? Tắt thông báo không cần thiết, bỏ theo dõi nguồn gây nhiễu, đặt vị trí sạc điện thoại ngoài phòng ngủ nếu phù hợp và tạo khoảng thời gian không màn hình. Đừng đặt mục tiêu cực đoan khiến việc duy trì bất khả thi."
+        },
+        {
+          "type": "heading",
+          "text": "5. Case study"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nam làm báo cáo tại nhà và thường kiểm tra điện thoại mỗi vài phút. Anh thử nghiệm hai tuần: tắt thông báo mạng xã hội, để điện thoại ở phòng khác, chia báo cáo thành các khối 50 phút và kiểm tra email vào ba khung cố định. Anh theo dõi số khối hoàn thành, lỗi cần sửa và mức độ mệt mỏi. Nếu kết quả không cải thiện, anh xem lại độ khó nhiệm vụ, môi trường và thời lượng khối tập trung."
+        },
+        {
+          "type": "heading",
+          "text": "6. Kế hoạch 14 ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ngày 1–3: đo hiện trạng. Ngày 4–6: tắt thông báo không thiết yếu. Ngày 7–9: thử hai khối tập trung mỗi ngày. Ngày 10–12: đặt khung kiểm tra tin nhắn. Ngày 13–14: đánh giá tác động và giữ lại quy tắc hữu ích."
+        },
+        {
+          "type": "section",
+          "text": "7. Worksheet thực hành"
+        },
+        {
+          "type": "subheading",
+          "text": "7.1 Kiểm kê thói quen số"
+        },
+        {
+          "type": "subheading",
+          "text": "7.2 Nhật ký phiên tập trung"
+        },
+        {
+          "type": "subheading",
+          "text": "7.3 Bộ quy tắc cá nhân khi dùng thiết bị"
+        },
+        {
+          "type": "heading",
+          "text": "Tài liệu tham khảo chương"
+        },
+        {
+          "type": "reference",
+          "text": "Mark, G., Gudith, D., & Klocke, U. (2008). The cost of interrupted work: More speed and stress. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 107–110. https://doi.org/10.1145/1357054.1357072"
+        },
+        {
+          "type": "reference",
+          "text": "Newport, C. (2019). Digital minimalism: Choosing a focused life in a noisy world. Portfolio."
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "7.1 Kiểm kê thói quen số",
+          "headers": [
+            "Ứng dụng / nền tảng",
+            ""
+          ],
+          "rows": [
+            [
+              "Mục đích sử dụng",
+              ""
+            ],
+            [
+              "Thời gian mỗi ngày",
+              ""
+            ],
+            [
+              "Giá trị thực tế tạo ra",
+              ""
+            ],
+            [
+              "Quy tắc mới / giới hạn",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "7.2 Nhật ký phiên tập trung",
+          "headers": [
+            "Nhiệm vụ",
+            ""
+          ],
+          "rows": [
+            [
+              "Đầu ra cần hoàn thành",
+              ""
+            ],
+            [
+              "Thời gian bắt đầu – kết thúc",
+              ""
+            ],
+            [
+              "Yếu tố gây nhiễu",
+              ""
+            ],
+            [
+              "Kết quả / mức hoàn thành",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "7.3 Bộ quy tắc cá nhân khi dùng thiết bị",
+          "headers": [
+            "Thông báo bật / tắt",
+            ""
+          ],
+          "rows": [
+            [
+              "Khung giờ kiểm tra email / tin nhắn",
+              ""
+            ],
+            [
+              "Vị trí đặt điện thoại khi làm việc",
+              ""
+            ],
+            [
+              "Khoảng thời gian không màn hình",
+              ""
+            ]
+          ],
+          "columns": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "title": "Trí tuệ cảm xúc và khả năng phục hồi tinh thần",
+      "subtitle": "Nhận biết cảm xúc, lựa chọn phản ứng và xây dựng nguồn lực phục hồi",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Trí tuệ cảm xúc và khả năng phục hồi tinh thần"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nhận biết cảm xúc, lựa chọn phản ứng và xây dựng nguồn lực phục hồi"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cảm xúc cung cấp thông tin về nhu cầu, mối đe dọa, kỳ vọng và quan hệ. Vấn đề không phải loại bỏ cảm xúc khó chịu mà là nhận diện chúng, hiểu bối cảnh và lựa chọn hành động phù hợp. Khả năng phục hồi cũng không đồng nghĩa với chịu đựng vô hạn; đôi khi phản ứng lành mạnh nhất là nghỉ ngơi, đặt giới hạn hoặc tìm hỗ trợ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Các mô hình trí tuệ cảm xúc khác nhau về cách định nghĩa và đo lường. Một cách tiếp cận thực hành gồm nhận biết cảm xúc, hiểu nguyên nhân, điều chỉnh phản ứng, đồng cảm và giao tiếp. Gross mô tả các chiến lược điều hòa cảm xúc theo tiến trình, trong đó tái đánh giá nhận thức có thể thay đổi ý nghĩa của tình huống trước khi phản ứng phát triển mạnh. Không có chiến lược nào phù hợp mọi tình huống; đôi khi giải quyết vấn đề hoặc thay đổi môi trường quan trọng hơn điều chỉnh suy nghĩ."
+        },
+        {
+          "type": "heading",
+          "text": "2. Tách sự kiện, suy nghĩ và cảm xúc"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ví dụ: sự kiện là quản lý yêu cầu sửa báo cáo; suy nghĩ tự động là “mình không đủ năng lực”; cảm xúc là thất vọng hoặc lo lắng; hành động có thể là né tránh hoặc phản ứng phòng thủ. Khi tách bốn phần này, ta có thể kiểm tra suy nghĩ có phải sự thật hay chỉ là một diễn giải. Hãy hỏi: bằng chứng nào ủng hộ? bằng chứng nào chưa phù hợp? có cách giải thích cân bằng hơn không?"
+        },
+        {
+          "type": "heading",
+          "text": "3. Kỹ thuật STOP và tái đánh giá"
+        },
+        {
+          "type": "paragraph",
+          "text": "STOP là công cụ tự nhắc: dừng lại, thở chậm, quan sát cảm giác và suy nghĩ, rồi lựa chọn bước tiếp theo. Tái đánh giá nhận thức không phải phủ nhận vấn đề hoặc ép mình tích cực. Đó là tìm một diễn giải chính xác và hữu ích hơn. Nếu có nguy cơ an toàn, bạo lực hoặc tình huống khẩn cấp, ưu tiên rời khỏi nguy hiểm và tìm hỗ trợ thay vì cố tự điều chỉnh."
+        },
+        {
+          "type": "heading",
+          "text": "4. Xây dựng khả năng phục hồi"
+        },
+        {
+          "type": "paragraph",
+          "text": "Các nguồn lực gồm giấc ngủ, vận động, quan hệ hỗ trợ, kỹ năng giải quyết vấn đề, khả năng đặt giới hạn và tiếp cận dịch vụ chuyên môn. Lập danh sách người có thể liên hệ, hoạt động giúp hồi phục và dấu hiệu cho thấy mình đang quá tải. Không nên xem kiệt sức kéo dài là thất bại ý chí."
+        },
+        {
+          "type": "heading",
+          "text": "5. Case study"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hoa điều phối nhóm. Trong cuộc họp, một thành viên phản đối đề xuất của cô. Hoa cảm thấy bị thách thức và muốn bác bỏ ngay. Cô tạm dừng, hỏi người kia về dữ liệu và tiêu chí, sau đó phân biệt bất đồng về phương án với đánh giá cá nhân. Cuộc họp chuyển sang phân tích lựa chọn. Bài học là cảm xúc có thể được ghi nhận mà không nhất thiết phải quyết định hành động."
+        },
+        {
+          "type": "heading",
+          "text": "6. Kế hoạch 30 ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tuần 1: ghi nhật ký cảm xúc. Tuần 2: thực hành tạm dừng và gọi tên cảm xúc. Tuần 3: thử tái đánh giá một suy nghĩ tự động. Tuần 4: củng cố lịch phục hồi và danh sách hỗ trợ. Nếu cảm xúc hoặc triệu chứng kéo dài, ảnh hưởng rõ rệt đến sinh hoạt, hãy tìm chuyên gia sức khỏe tâm thần."
+        },
+        {
+          "type": "section",
+          "text": "7. Worksheet thực hành"
+        },
+        {
+          "type": "subheading",
+          "text": "8.1 Nhật ký cảm xúc"
+        },
+        {
+          "type": "subheading",
+          "text": "8.2 Tái đánh giá suy nghĩ"
+        },
+        {
+          "type": "subheading",
+          "text": "8.3 Kế hoạch hỗ trợ và phục hồi"
+        },
+        {
+          "type": "heading",
+          "text": "Tài liệu tham khảo chương"
+        },
+        {
+          "type": "reference",
+          "text": "Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. Review of General Psychology, 2(3), 271–299. https://doi.org/10.1037/1089-2680.2.3.271"
+        },
+        {
+          "type": "reference",
+          "text": "Gross, J. J. (Ed.). (2014). Handbook of emotion regulation (2nd ed.). Guilford Press."
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "8.1 Nhật ký cảm xúc",
+          "headers": [
+            "Tình huống",
+            ""
+          ],
+          "rows": [
+            [
+              "Sự kiện quan sát được (không diễn giải)",
+              ""
+            ],
+            [
+              "Suy nghĩ tự động",
+              ""
+            ],
+            [
+              "Cảm xúc / cường độ (1–10)",
+              ""
+            ],
+            [
+              "Nhu cầu phía sau cảm xúc",
+              ""
+            ],
+            [
+              "Hành động tôi đã chọn",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "8.2 Tái đánh giá suy nghĩ",
+          "headers": [
+            "Bằng chứng ủng hộ suy nghĩ ban đầu",
+            ""
+          ],
+          "rows": [
+            [
+              "Bằng chứng / góc nhìn khác",
+              ""
+            ],
+            [
+              "Cách nhìn cân bằng hơn",
+              ""
+            ],
+            [
+              "Bước tiếp theo có ích",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "8.3 Kế hoạch hỗ trợ và phục hồi",
+          "headers": [
+            "Người có thể liên hệ",
+            ""
+          ],
+          "rows": [
+            [
+              "Hoạt động giúp phục hồi",
+              ""
+            ],
+            [
+              "Dấu hiệu nhận biết quá tải",
+              ""
+            ],
+            [
+              "Hỗ trợ chuyên môn cần tìm",
+              ""
+            ]
+          ],
+          "columns": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "title": "Tư duy phản biện, giải quyết vấn đề và ra quyết định",
+      "subtitle": "Kiểm tra giả định, cân nhắc lựa chọn và quản trị rủi ro",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Tư duy phản biện, giải quyết vấn đề và ra quyết định"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kiểm tra giả định, cân nhắc lựa chọn và quản trị rủi ro"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quyết định kém không chỉ xuất phát từ thiếu thông tin. Ta có thể bị neo vào con số đầu tiên, chỉ tìm bằng chứng ủng hộ ý kiến sẵn có hoặc tiếp tục một lựa chọn chỉ vì đã đầu tư quá nhiều. Tư duy phản biện giúp kiểm tra lập luận; quy trình ra quyết định giúp biến phân tích thành hành động có trách nhiệm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nghiên cứu về phán đoán và ra quyết định mô tả các heuristic – quy tắc suy luận nhanh – có ích trong nhiều tình huống nhưng đôi khi tạo thiên kiến. Confirmation bias khiến ta chú ý quá mức đến bằng chứng ủng hộ niềm tin hiện tại; anchoring khiến ước lượng bị ảnh hưởng bởi điểm xuất phát; sunk cost fallacy khiến chi phí đã bỏ ra tác động không hợp lý đến lựa chọn tương lai. Nhận biết thiên kiến không loại bỏ chúng hoàn toàn, nhưng có thể tạo khoảng dừng để kiểm tra."
+        },
+        {
+          "type": "heading",
+          "text": "2. Quy trình 7 bước"
+        },
+        {
+          "type": "paragraph",
+          "text": "Xác định quyết định cần đưa ra; mô tả mục tiêu; phân biệt dữ kiện và giả định; tạo ít nhất hai phương án; xác định tiêu chí; đánh giá lợi ích, chi phí và rủi ro; quyết định, triển khai và đặt thời điểm xem lại. Với quyết định khó đảo ngược, cần thu thập thông tin và tham vấn nhiều hơn. Với quyết định dễ đảo ngược, có thể thử nghiệm nhỏ để học nhanh."
+        },
+        {
+          "type": "heading",
+          "text": "3. Decision matrix"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chọn tiêu chí có liên quan, gán trọng số tổng bằng 100%, chấm từng phương án theo thang nhất quán rồi tính tổng trọng số. Ma trận làm rõ đánh đổi nhưng không biến lựa chọn thành sự thật khách quan. Nếu điểm số phụ thuộc dữ liệu chưa chắc chắn, hãy ghi rõ khoảng ước lượng và kiểm tra xem kết luận có đổi khi trọng số thay đổi hay không."
+        },
+        {
+          "type": "heading",
+          "text": "4. Pre-mortem và chi phí cơ hội"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pre-mortem giả định kế hoạch đã thất bại rồi liệt kê nguyên nhân có thể xảy ra. Chi phí cơ hội là giá trị của phương án tốt nhất bị bỏ qua khi chọn một lựa chọn. Khi cân nhắc học thêm, đổi việc hoặc mở kinh doanh, cần tính cả thời gian, thu nhập bị mất, rủi ro và tác động đến người phụ thuộc."
+        },
+        {
+          "type": "heading",
+          "text": "5. Case study"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quân muốn nghỉ việc để mở cửa hàng vì thấy người quen thành công. Anh liệt kê giả định về nhu cầu, chi phí cố định, biên lợi nhuận và dòng tiền. Pre-mortem cho thấy thiếu khách hàng lặp lại và thiếu vốn lưu động là hai rủi ro lớn. Thay vì thuê mặt bằng ngay, anh thử bán quy mô nhỏ, đo tỷ lệ mua lại và chi phí thu hút khách. Quyết định được chia thành các bước có thể kiểm chứng."
+        },
+        {
+          "type": "heading",
+          "text": "6. Kế hoạch 30 ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tuần 1: ghi lại một quyết định và các giả định. Tuần 2: dùng decision matrix cho lựa chọn có nhiều tiêu chí. Tuần 3: làm pre-mortem. Tuần 4: đánh giá kết quả và so sánh dự đoán với thực tế. Mục tiêu là cải thiện quy trình, không phải kỳ vọng luôn đoán đúng."
+        },
+        {
+          "type": "section",
+          "text": "7. Worksheet thực hành"
+        },
+        {
+          "type": "subheading",
+          "text": "9.1 Decision brief — phiếu xác định quyết định"
+        },
+        {
+          "type": "subheading",
+          "text": "9.2 Ma trận so sánh phương án"
+        },
+        {
+          "type": "subheading",
+          "text": "9.3 Pre-mortem — giả định thất bại"
+        },
+        {
+          "type": "heading",
+          "text": "Tài liệu tham khảo chương"
+        },
+        {
+          "type": "reference",
+          "text": "Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux."
+        },
+        {
+          "type": "reference",
+          "text": "Thaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving decisions about health, wealth, and happiness. Yale University Press."
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "9.1 Decision brief — phiếu xác định quyết định",
+          "headers": [
+            "Quyết định cần đưa ra",
+            ""
+          ],
+          "rows": [
+            [
+              "Thời hạn",
+              ""
+            ],
+            [
+              "Mục tiêu / điều quan trọng nhất",
+              ""
+            ],
+            [
+              "Dữ kiện đã xác minh",
+              ""
+            ],
+            [
+              "Giả định chưa xác minh",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "9.2 Ma trận so sánh phương án",
+          "headers": [
+            "Phương án",
+            ""
+          ],
+          "rows": [
+            [
+              "Tiêu chí đánh giá",
+              ""
+            ],
+            [
+              "Trọng số tiêu chí",
+              ""
+            ],
+            [
+              "Điểm / tổng điểm",
+              ""
+            ],
+            [
+              "Lợi ích",
+              ""
+            ],
+            [
+              "Chi phí",
+              ""
+            ],
+            [
+              "Rủi ro",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "9.3 Pre-mortem — giả định thất bại",
+          "headers": [
+            "Ba nguyên nhân có thể khiến kế hoạch thất bại",
+            ""
+          ],
+          "rows": [
+            [
+              "Tín hiệu cảnh báo sớm",
+              ""
+            ],
+            [
+              "Biện pháp giảm thiểu",
+              ""
+            ],
+            [
+              "Điều kiện cần dừng / thay đổi",
+              ""
+            ]
+          ],
+          "columns": 2
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "title": "Xây dựng hệ thống phát triển bản thân trong 90 ngày",
+      "subtitle": "Tích hợp mục tiêu, lịch, thói quen, học tập, tài chính và đánh giá định kỳ",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Xây dựng hệ thống phát triển bản thân trong 90 ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tích hợp mục tiêu, lịch, thói quen, học tập, tài chính và đánh giá định kỳ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chín chương trước cung cấp các công cụ theo từng lĩnh vực. Chương cuối kết nối chúng thành một hệ thống vận hành cá nhân. Hệ thống tốt không cần phức tạp; nó cần giúp xác định ưu tiên, biến mục tiêu thành hành động, theo dõi tiến độ và điều chỉnh khi hoàn cảnh thay đổi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Goal-setting research cho thấy mục tiêu cụ thể và có độ thử thách phù hợp có thể hỗ trợ hiệu suất khi người thực hiện có năng lực, cam kết, nguồn lực và phản hồi. SMART giúp kiểm tra chất lượng mục tiêu. OKR kết nối mục tiêu định hướng với kết quả then chốt có thể quan sát. PDCA – Plan, Do, Check, Act – tạo chu trình cải tiến. Các công cụ này là khung quản trị, không phải bảo đảm thành công."
+        },
+        {
+          "type": "heading",
+          "text": "2. Chọn ít mục tiêu nhưng có ý nghĩa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chọn tối đa ba mục tiêu trọng tâm cho 90 ngày. Mỗi mục tiêu cần có lý do, kết quả, chỉ số, hành động hàng tuần và điều kiện nguồn lực. Phân biệt chỉ số đầu ra (ví dụ hoàn thành dự án) với chỉ số dẫn dắt (ví dụ số phiên thực hành). Chỉ số dẫn dắt giúp điều chỉnh sớm; chỉ số kết quả cho biết tác động cuối cùng."
+        },
+        {
+          "type": "heading",
+          "text": "3. Thiết kế chu kỳ 90 ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ngày 1–30: xây nền tảng và đo hiện trạng. Ngày 31–60: thực hành có chủ đích, củng cố thói quen và xử lý trở ngại. Ngày 61–90: hoàn thành đầu ra, đánh giá tác động và quyết định duy trì, mở rộng hoặc dừng. Mỗi tuần có một buổi review 20–30 phút; mỗi tháng có một buổi đánh giá dài hơn."
+        },
+        {
+          "type": "heading",
+          "text": "4. Scorecard cá nhân"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chọn 5–8 chỉ số, tránh đo mọi thứ. Ví dụ: số phiên học sâu, số buổi vận động, tỷ lệ thực hiện thói quen, tỷ lệ tiết kiệm, số nhiệm vụ quan trọng hoàn thành và mức năng lượng tự đánh giá. Ghi rõ định nghĩa từng chỉ số để so sánh nhất quán. Điểm tự đánh giá không phải chẩn đoán y tế hoặc tâm lý."
+        },
+        {
+          "type": "heading",
+          "text": "5. Case study"
+        },
+        {
+          "type": "paragraph",
+          "text": "An, 34 tuổi, muốn cải thiện chuyên môn, sức khỏe và tài chính. Tháng đầu anh ghi thu chi, ổn định giờ ngủ và học 20 phút bốn buổi mỗi tuần. Tháng hai anh hoàn thành một bài thực hành chuyên môn mỗi tuần, đi bộ ba buổi và tự động chuyển một khoản tiết kiệm. Tháng ba anh hoàn thành dự án nhỏ, rà soát ngân sách và điều chỉnh lịch. An không thêm mục tiêu mới khi hệ thống hiện tại chưa ổn định."
+        },
+        {
+          "type": "heading",
+          "text": "6. Kế hoạch hành động"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trước ngày bắt đầu: ghi hiện trạng, chọn ba mục tiêu và đặt lịch review. Mỗi ngày: xác định một ưu tiên và hành động tối thiểu. Mỗi tuần: xem dữ liệu, trở ngại và điều chỉnh. Mỗi tháng: đánh giá kết quả và tính phù hợp. Ngày 90: tổng kết, lưu bài học và lập chu kỳ tiếp theo."
+        },
+        {
+          "type": "section",
+          "text": "7. Worksheet thực hành"
+        },
+        {
+          "type": "subheading",
+          "text": "10.1 Cam kết 90 ngày"
+        },
+        {
+          "type": "subheading",
+          "text": "10.2 Rà soát hằng tuần"
+        },
+        {
+          "type": "subheading",
+          "text": "10.3 Đánh giá ngày thứ 90"
+        },
+        {
+          "type": "heading",
+          "text": "Tài liệu tham khảo chương"
+        },
+        {
+          "type": "reference",
+          "text": "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. American Psychologist, 57(9), 705–717. https://doi.org/10.1037/0003-066X.57.9.705"
+        },
+        {
+          "type": "reference",
+          "text": "Deming, W. E. (1986). Out of the crisis. MIT Press."
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "10.1 Cam kết 90 ngày",
+          "headers": [
+            "Mục tiêu",
+            ""
+          ],
+          "rows": [
+            [
+              "Kết quả then chốt / chỉ số đo",
+              ""
+            ],
+            [
+              "Hành động mỗi tuần",
+              ""
+            ],
+            [
+              "Người / nguồn lực hỗ trợ",
+              ""
+            ],
+            [
+              "Ngày rà soát",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "10.2 Rà soát hằng tuần",
+          "headers": [
+            "Kết quả quan trọng đạt được",
+            ""
+          ],
+          "rows": [
+            [
+              "Chỉ số dẫn dắt",
+              ""
+            ],
+            [
+              "Trở ngại chính",
+              ""
+            ],
+            [
+              "Quyết định điều chỉnh",
+              ""
+            ],
+            [
+              "Ba ưu tiên tuần tới",
+              ""
+            ]
+          ],
+          "columns": 2
+        },
+        {
+          "title": "10.3 Đánh giá ngày thứ 90",
+          "headers": [
+            "Điều đã đạt",
+            ""
+          ],
+          "rows": [
+            [
+              "Điều chưa đạt",
+              ""
+            ],
+            [
+              "Bằng chứng / dữ liệu",
+              ""
+            ],
+            [
+              "Bài học quan trọng",
+              ""
+            ],
+            [
+              "Mục tiêu / bước tiếp theo",
+              ""
+            ]
+          ],
+          "columns": 2
+        }
+      ]
+    }
+  ]
+}
